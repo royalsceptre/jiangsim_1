@@ -68,7 +68,7 @@ function ContactInfo() {
           />
         </div>
         <div>
-          <img src="https://www.google.com/maps/vt/data=fxD-TOSy7azouu…oGE765MOTFoOrcD9ttvRO2H_RFrutEnjhge6GBbTwq5OhG4Uw" alt="Map of Kharkiv" style={{width: "300px"}}/>
+          <img src="https://www.google.com/maps/vt/data=fxD-TOSy7azouu…oGE765MOTFoOrcD9ttvRO2H_RFrutEnjhge6GBbTwq5OhG4Uw" alt="Map of Singapore" style={{width: "300px"}}/>
         </div>
       </div>
     </React.Fragment>
