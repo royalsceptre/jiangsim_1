@@ -68,7 +68,7 @@ function ContactInfo() {
           />
         </div>
         <div>
-          <img src="https://www.google.com/maps/vt/data=fxD-TOSy7azouu…oGE765MOTFoOrcD9ttvRO2H_RFrutEnjhge6GBbTwq5OhG4Uw" alt="Map of Singapore" style={{width: "300px"}}/>
+          <img src="https://www.google.com/maps/vt/data=fxD-TOSy7azouuKlpW8QrCKLWPaUNzM_9kw62p1BxhLuOzvVG3_bvinA0dCy-c41_zYJZaqr2BNugffpJPQ_In0sFpSFLEScn09PUMYfsPEjF3-PFn9WupPOhNeB29Md9HxyUg8X2Bq7zYFmc1GRMeLMOOhr6FZ99s4dJakkkkIMazGCCFtqHLiJXjJq6YfZsPdP5phIDEZV_5XlNFooxEfr7TR3J3NVbNQfrVGnya0n8TolMxtwpoSdBoGE765MOTFoOrcD9ttvRO2H_RFrutEnjhge6GBbTwq5OhG4Uw" alt="Map of Singapore" style={{width: "300px"}}/>
         </div>
       </div>
     </React.Fragment>
