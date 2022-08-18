@@ -68,7 +68,7 @@ function ContactInfo() {
           />
         </div>
         <div>
-          <img src="https://www.google.com/maps/vt/data=z_ICALad_K13LiGa0VvdUXWikoLwcJY7LzTEohjBClcRsNozGjldl9SHVkuIO_Jz4pnbW9ynjilhMa2N-trWFaCeGw--c-2fofsjd7yZppm2WAmYbJyX5QozNYSQxQdkYW3MukUpxv2rRMUFEZTQJEZzqbLRTzkyVTs4wJLJCpRqMU_Mhm6SmVb0BqGK3W7RaCwzee0Y7L83Mjw_czNA9lSor8zsO5cqRZrmDjT1drQsOiQbmBSz" alt="Map of Kharkiv" style={{width: "300px"}}/>
+          <img src="https://www.google.com/maps/vt/data=fxD-TOSy7azouu…oGE765MOTFoOrcD9ttvRO2H_RFrutEnjhge6GBbTwq5OhG4Uw" alt="Map of Kharkiv" style={{width: "300px"}}/>
         </div>
       </div>
     </React.Fragment>
